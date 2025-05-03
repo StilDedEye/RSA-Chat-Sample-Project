@@ -1,4 +1,4 @@
-# Project RSA
+# RSA Chat Sample Project
 
 
 Progetto creato a fini didattici per comprendere il funzionamento della crittografia RSA, implementando l'algoritmo nella comunicazione client-server. 

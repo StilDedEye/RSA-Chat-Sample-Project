@@ -14,6 +14,6 @@ Progetto creato a fini didattici per comprendere il funzionamento della crittogr
 
 ## **Hanno contribuito**
 - **Gnoni Gabriele**
-- **@StilDedeye**
+- **Silvani Andrea** - @StilDedEye
 - **Surano Simone**
 - **Zaccagnino Alessandro**

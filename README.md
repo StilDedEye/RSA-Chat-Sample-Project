@@ -12,8 +12,8 @@ Progetto creato a fini didattici per comprendere il funzionamento della crittogr
 - **Notifiche:** Avvisi in tempo reale per nuovi messaggi.  
 ---
 
-## **Autori**
+## **Hanno contribuito**
 - **Gnoni Gabriele**
-- **Silvani Andrea**
+- **@StilDedeye**
 - **Surano Simone**
 - **Zaccagnino Alessandro**

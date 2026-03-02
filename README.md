@@ -17,10 +17,10 @@ Progetto sviluppato a fini didattici per approfondire il funzionamento della **c
 
 Il progetto è stato realizzato con il contributo di:
 
-* **Gnoni Gabriele**
+* **Gnoni Gabriele** ([@GabriNioni](https://github.com/GabriNioni))
 * **Silvani Andrea** ([@StilDedEye](https://github.com/StilDedEye))
-* **Surano Simone** ([@GabriNioni](https://github.com/GabriNioni))
-* **Zaccagnino Alessandro**
+* **Surano Simone** 
+* **Zaccagnino Alessandro** ([@Maxti077](https://github.com/Maxti077))
 
 ---
 

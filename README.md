@@ -1,19 +1,28 @@
-# RSA Chat Sample Project
+# 🔒 RSA Chat - Sample Project
 
-
-Progetto creato a fini didattici per comprendere il funzionamento della crittografia RSA, implementando l'algoritmo nella comunicazione client-server. 
+Progetto sviluppato a fini didattici per approfondire il funzionamento della **crittografia asimmetrica RSA**, implementando l'algoritmo all'interno di un'architettura di comunicazione **client-server**.
 
 ---
 
-## **Funzionalità Principali**
-- **Connessione:** Comunicazione tra client e server tramite socket.  
-- **Crittografia RSA:** I messaggi sono crittografati con una chiave pubblica e decifrati con una chiave privata.  
-- **Log e Storico:** Registrazione di connessioni, disconnessioni e messaggi scambiati.  
-- **Notifiche:** Avvisi in tempo reale per nuovi messaggi.  
+## 🚀 Funzionalità Principali
+
+* **Connessione Sicura:** Gestione della comunicazione tra client e server tramite l'utilizzo di **socket**.
+* **Crittografia RSA:** Implementazione del protocollo RSA; i messaggi vengono cifrati con la chiave pubblica del destinatario e decifrati esclusivamente tramite la chiave privata corrispondente.
+* **Log e Storico:** Monitoraggio costante e registrazione di tutte le attività (connessioni, disconnessioni e scambio messaggi).
+* **Notifiche Real-time:** Sistema di avvisi immediati alla ricezione di nuovi messaggi.
+
 ---
 
-## **Hanno contribuito**
-- **Gnoni Gabriele**
-- **Silvani Andrea** - @StilDedEye
-- **Surano Simone**
-- **Zaccagnino Alessandro**
+## 👥 Hanno contribuito
+
+Il progetto è stato realizzato con il contributo di:
+
+* **Gnoni Gabriele**
+* **Silvani Andrea** ([@StilDedEye](https://github.com/StilDedEye))
+* **Surano Simone**
+* **Zaccagnino Alessandro**
+
+---
+
+> [!NOTE]
+> Questo software è stato creato esclusivamente a scopo illustrativo e didattico per dimostrare i concetti base della crittografia asimmetrica.

@@ -19,7 +19,7 @@ Il progetto è stato realizzato con il contributo di:
 
 * **Gnoni Gabriele**
 * **Silvani Andrea** ([@StilDedEye](https://github.com/StilDedEye))
-* **Surano Simone**
+* **Surano Simone** ([@GabriNioni](https://github.com/GabriNioni))
 * **Zaccagnino Alessandro**
 
 ---
